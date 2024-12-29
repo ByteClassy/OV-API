@@ -1,0 +1,256 @@
+{
+  "hero": [
+    {
+      "key": "ana",
+      "name": "Ana",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/ana.png",
+      "role": "support"
+    },
+    {
+      "key": "ashe",
+      "name": "Ashe",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/ashe.png",
+      "role": "damage"
+    },
+    {
+      "key": "baptiste",
+      "name": "Baptiste",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/baptiste.png",
+      "role": "support"
+    },
+    {
+      "key": "bastion",
+      "name": "Bastion",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/bastion.png",
+      "role": "damage"
+    },
+    {
+      "key": "brigitte",
+      "name": "Brigitte",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/brigitte.png",
+      "role": "support"
+    },
+    {
+      "key": "cassidy",
+      "name": "Cassidy",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/cassidy.png",
+      "role": "damage"
+    },
+    {
+      "key": "doomfist",
+      "name": "Doomfist",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/doomfist.png",
+      "role": "tank"
+    },
+    {
+      "key": "dva",
+      "name": "D.Va",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/dva.png",
+      "role": "tank"
+    },
+    {
+      "key": "echo",
+      "name": "Echo",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/echo.png",
+      "role": "damage"
+    },
+    {
+      "key": "genji",
+      "name": "Genji",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/genji.png",
+      "role": "damage"
+    },
+    {
+      "key": "hanzo",
+      "name": "Hanzo",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/hanzo.png",
+      "role": "damage"
+    },
+    {
+      "key": "hazard",
+      "name": "Hazard",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/hazard.png",
+      "role": "tank"
+    },
+    {
+      "key": "illari",
+      "name": "Illari",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/illari.png",
+      "role": "support"
+    },
+    {
+      "key": "junker-queen",
+      "name": "Junker Queen",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/junker-queen.png",
+      "role": "tank"
+    },
+    {
+      "key": "junkrat",
+      "name": "Junkrat",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/junkrat.png",
+      "role": "damage"
+    },
+    {
+      "key": "juno",
+      "name": "Juno",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/juno.png",
+      "role": "support"
+    },
+    {
+      "key": "kiriko",
+      "name": "Kiriko",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/kiriko.png",
+      "role": "support"
+    },
+    {
+      "key": "lifeweaver",
+      "name": "Lifeweaver",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/lifeweaver.png",
+      "role": "support"
+    },
+    {
+      "key": "lucio",
+      "name": "Lúcio",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/lucio.png",
+      "role": "support"
+    },
+    {
+      "key": "mauga",
+      "name": "Mauga",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/mauga.png",
+      "role": "tank"
+    },
+    {
+      "key": "mei",
+      "name": "Mei",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/mei.png",
+      "role": "damage"
+    },
+    {
+      "key": "mercy",
+      "name": "Mercy",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/mercy.png",
+      "role": "support"
+    },
+    {
+      "key": "moira",
+      "name": "Moira",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/moira.png",
+      "role": "support"
+    },
+    {
+      "key": "orisa",
+      "name": "Orisa",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/orisa.png",
+      "role": "tank"
+    },
+    {
+      "key": "pharah",
+      "name": "Pharah",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/pharah.png",
+      "role": "damage"
+    },
+    {
+      "key": "ramattra",
+      "name": "Ramattra",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/ramattra.png",
+      "role": "tank"
+    },
+    {
+      "key": "reaper",
+      "name": "Reaper",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/reaper.png",
+      "role": "damage"
+    },
+    {
+      "key": "reinhardt",
+      "name": "Reinhardt",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/reinhardt.png",
+      "role": "tank"
+    },
+    {
+      "key": "roadhog",
+      "name": "Roadhog",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/roadhog.png",
+      "role": "tank"
+    },
+    {
+      "key": "sigma",
+      "name": "Sigma",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/sigma.png",
+      "role": "tank"
+    },
+    {
+      "key": "sojourn",
+      "name": "Sojourn",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/sojourn.png",
+      "role": "damage"
+    },
+    {
+      "key": "soldier-76",
+      "name": "Soldier: 76",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/soldier-76.png",
+      "role": "damage"
+    },
+    {
+      "key": "sombra",
+      "name": "Sombra",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/sombra.png",
+      "role": "damage"
+    },
+    {
+      "key": "symmetra",
+      "name": "Symmetra",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/symmetra.png",
+      "role": "damage"
+    },
+    {
+      "key": "torbjorn",
+      "name": "Torbjörn",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/torbjorn.png",
+      "role": "damage"
+    },
+    {
+      "key": "tracer",
+      "name": "Tracer",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/tracer.png",
+      "role": "damage"
+    },
+    {
+      "key": "venture",
+      "name": "Venture",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/venture.png",
+      "role": "damage"
+    },
+    {
+      "key": "widowmaker",
+      "name": "Widowmaker",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/widowmaker.png",
+      "role": "damage"
+    },
+    {
+      "key": "winston",
+      "name": "Winston",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/winston.png",
+      "role": "tank"
+    },
+    {
+      "key": "wrecking-ball",
+      "name": "Wrecking Ball",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/wrecking-ball.png",
+      "role": "tank"
+    },
+    {
+      "key": "zarya",
+      "name": "Zarya",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/zarya.png",
+      "role": "tank"
+    },
+    {
+      "key": "zenyatta",
+      "name": "Zenyatta",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/zenyatta.png",
+      "role": "support"
+    }
+  ]
+}
