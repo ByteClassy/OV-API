@@ -1,0 +1,22 @@
+{
+  "role": [
+    {
+      "key": "tank",
+      "name": "Tank",
+      "icon": "https://github.com/ByteClassy/OV-API/blob/main/images/role/tank.svg?raw=true",
+      "description": "Tank heroes soak up damage and shatter fortified positions, like closely grouped enemies and narrow chokepoints. If you’re a tank, you lead the charge."
+    },
+    {
+      "key": "damage",
+      "name": "Damage",
+      "icon": "https://github.com/ByteClassy/OV-API/blob/main/images/role/damage.svg?raw=true",
+      "description": "Damage heroes seek out, engage, and obliterate the enemy with wide-ranging tools, abilities, and play styles. Fearsome but fragile, these heroes require backup to survive."
+    },
+    {
+      "key": "support",
+      "name": "Support",
+      "icon": "https://github.com/ByteClassy/OV-API/blob/main/images/role/support.svg?raw=true",
+      "description": "Support heroes empower their allies by healing, shielding, boosting damage, and disabling foes. As a support, you’re the backbone of your team’s survival."
+    }
+  ]
+}
