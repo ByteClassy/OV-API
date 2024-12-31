@@ -1,0 +1,65 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "key": "ana",
+      "name": "Ana",
+      "portrait": "https://github.com/ByteClassy/OV-API/blob/main/images/portrait/ana.png?raw=true",
+      "role": "support"
+    }
+  ],
+  "roles": [
+    {
+      "key": "tank",
+      "name": "Tank",
+      "icon": "https://github.com/ByteClassy/OV-API/blob/main/images/role/tank.svg?raw=true",
+      "description": "Tank heroes soak up damage and shatter fortified positions, like closely grouped enemies and narrow chokepoints. If you’re a tank, you lead the charge."
+    }
+  ],
+  "details": [
+    {
+      "heroKey": "ana",
+      "name": "Ana",
+      "description": "One of the founding members of Overwatch, Ana uses her skills and expertise to defend her home and the people she cares for.",
+      "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3429c394716364bbef802180e9763d04812757c205e1b4568bc321772096ed86.png",
+      "role": "support",
+      "location": "Cairo, Egypt",
+      "birthday": "Jan 1",
+      "age": 62,
+      "hitpoints": {
+        "health": 250,
+        "shields": 0,
+        "armor": 0,
+        "total": 250
+      },
+      "abilities": [
+        {
+          "name": "Biotic Rifle",
+          "description": "Long-range rifle that heals allies and damages enemies. Hold to zoom in.",
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/efe0ebb135e87dc26b60f0d20500dcd7553ad121ab2b10cd4ffb5db17be9c977.png",
+          "video": {
+            "thumbnail": "https://images.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/bltc56d4d9789a018d0/63390487ed7dcc6a0028039c/ANA_BIOTICRIFLE.jpg",
+            "link": {
+              "mp4": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt7f91fa726d903e78/6339047ee3c2a2741688cb9f/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_AnaBioticRifle_WEB_16x9_1920x1080p30_H264.mp4",
+              "webm": "https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt90138e57c4b91c94/6339047e64fe5a7d4481a05c/OVERWATCH_WEBSITE_CHARACTER_CAPTURE_AnaBioticRifle_WEB_16x9_1920x1080p30_WEBM.webm"
+            }
+          }
+        }
+      ],
+      "story": {
+        "summary": "A founding member of Overwatch...",
+        "media": {
+          "type": "video",
+          "link": "https://youtu.be/yzFWIw7wV8Q"
+        },
+        "chapters": [
+          {
+            "title": "Overwatch",
+            "content": "As the Omnic Crisis inflicted a heavy toll on Egypt...",
+            "picture": "https://images.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt26f888b741ac09bb/638807c1113983111ba8cfa9/ana_00.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}
